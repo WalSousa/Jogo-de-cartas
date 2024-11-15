@@ -1,6 +1,6 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Yu-Gi-Oh | Jo-ken-po Edition Walkiria
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Jogo de jokenpo que criei nas aulas de estudo sobre conceitos de lógica de programação aplicados a jogos
 
 conceitos abordados:
 
